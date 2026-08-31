@@ -5,4 +5,4 @@ Mon objectif principal en apprenant Python et R est de pouvoir explorer et analy
 Aussi, comme on le dit bien dans la vidéo explicative, maîtriser Git et GitHub est important pour arrêter d'enregistrer des fichiers du type "Projet_Final_3_".
 Au final, je vois cet apprentissage comme un atout technique que j'ai hâte d'exploiter dans mes futurs projets de Master.
 
-![Mon image locale](Mediaday.jpg)
+![Mon image locale](images/Mediaday.jpg)
